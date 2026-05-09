@@ -28,5 +28,5 @@ Difference between int and float?
 What does input() return?
 -> input is take a value form user it is ask a value for user when user give a value so it is assign to variable.
 Why do we use int()?
-->it used for conver datatype to integer like a = "5" so if we use inr(a) so it's return integer value 
+->it used for conver datatype to integer like a = "5" so if we use int(a) so it's return integer value 
 """
